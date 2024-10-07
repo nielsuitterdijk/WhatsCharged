@@ -1,0 +1,7 @@
+channels
+django
+django-cors-headers
+django-rest-framework
+djangorestframework-simplejwt
+uvicorn
+daphne
